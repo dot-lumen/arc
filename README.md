@@ -14,7 +14,7 @@ Traditional self-hosting is often fragmented and over-complicated, with many pan
 ### 📄 LicΞnsΞ
 > ##### This project is licensed under a **Proprietary License**. All rights reserved.
 > ##### Unauthorized reproduction or distribution of the ΛRC source or assets is strictly prohibited.
-> <sub>© 2026 LUMΞП | github.com/hypurh</sub>
+> <sub>© 2026 LUMΞП | github.com/hypurh | github.com/dot-lumen</sub>
 
 ---
 
