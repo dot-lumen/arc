@@ -2,7 +2,7 @@
 ### Parented by **LUMΞП**
 > **"The simpler side of self-hosting servers..."**
 
-**ΛRC** is a high-performance system orchestrator parented by **LUMΞП** and owned by [github.com/hypurh](https://github.com/hypurh). It offers a more intuitive approach to self-hosting and sophisticated server management.
+**ΛRC** is a high-performance system orchestrator parented by [**LUMΞП**](https://github.com/dot-lumen/) and owned by [github.com/hypurh](https://github.com/hypurh). It offers a more intuitive approach to self-hosting and sophisticated server management.
 
 ---
 
