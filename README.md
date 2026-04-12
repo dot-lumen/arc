@@ -19,4 +19,4 @@ Traditional self-hosting is often fragmented and over-complicated, with many pan
 ---
 
 > 🛠️ **Writing More Soon...**
-![LUMΞП mark](assets/lumen-mark.png)
+![ΛRC](assets/arc-mark.png)
